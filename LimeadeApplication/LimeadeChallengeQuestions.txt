@@ -1,0 +1,6 @@
+Bailey Hunsaker
+Limeade Challenge questions
+
+3. To make my code testable I made it so the logic is inside a function call. So, I would write a script to feed in many values (ie different location objects) to the fetchTime function and test the output against a source I know is correct. 
+
+4. To make my app responsive, I would add a loading bar or wheel when the "To problem 2" button is clicked since it takes some time to load. I would also add a snackbar or something like that to display an error message if the API queries took too long. To make it more performant, I would use a different API that allows more than one query per second so the activity loads quicker. And perhaps I would make each time a fragment that updates every second, so the application will show the current time live, without having to refresh the page. 
